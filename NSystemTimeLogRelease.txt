@@ -1,0 +1,26 @@
+
+
+___________________________________________________________________________________________
+Start Run at October 25,2026 21:45:21 With Parameters : 
+     SPR Label Database: E:\N System\NSystem.mdb2
+SPR Label Template Database: C:\Users\VraagX\SP3D Plants\Test\SharedContent\Reports\Types of Reports\SmartPlant Review\S3DToSPRDirect\Seed.mdb2
+            SPR Site ID: 1
+          SPR Site Name: Default
+     SPR Version Number: 12.00.25.0003
+
+
+                                              Delete File Time:	 00:00:00.000 	          0
+                                        Initialize Reader Time:	 00:00:00.000 	          0
+                                          Create Database Time:	 00:00:01.094 	       1094
+                                      Write Label Records Time:	 00:00:00.000 	          0
+                                    Write Linkage Records Time:	 00:00:00.000 	          0
+                                 Write Label Name Records Time:	 00:00:00.000 	          0
+                                Write Label Value Records Time:	 00:00:00.000 	          0
+                                           Create Indices Time:	 00:00:00.000 	          0
+                                           Close Database Time:	 00:00:01.016 	       1016
+                                                Total Run Time:	 00:00:02.126 	       2126
+
+
+MDB2 Size: 675840
+End Run at October 25,2026 21:45:25
+___________________________________________________________________________________________

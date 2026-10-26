@@ -1,0 +1,15 @@
+
+
+Start:   10/25/2026 9:45:21 PM
+
+ Output DB            [E:\N System\NSystem.mdb2]
+ Template             [C:\Users\VraagX\SP3D Plants\Test\SharedContent\Reports\Types of Reports\SmartPlant Review\S3DToSPRDirect\Seed.mdb2]
+ Map File             [C:\Users\VraagX\SP3D Plants\Test\SharedContent\Xml\MapClassIdToLevelDisciplines.txt]
+ SiteId               [1]
+ SiteName             [Default]
+ Report Settings file [C:\Users\VraagX\SP3D Plants\Test\SharedContent\Reports\Types of Reports\SmartPlant Review\S3DToSPRDirect\ReportSettings.txt]
+
+ Read Class/Label mapping file:10/25/2026 9:45:22 PM
+
+ Setting Aspect: Simple Physical
+ Setting Aspect: Insulation
